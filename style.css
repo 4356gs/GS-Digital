@@ -1,0 +1,18 @@
+.nav {
+    height: 50px;
+    background: rgb(0, 1, 2);
+
+}
+
+.nav ul {
+    position: absolute;
+    right: 5px;
+}
+
+.nav ul li{
+    display: inline-block;
+}
+.nav ul li a {
+    color: white;
+    padding: 5px;
+}
